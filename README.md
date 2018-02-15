@@ -10,9 +10,9 @@ Using existing tool I was able to get a better understanding of how to do this.
 * [Wekinator Input Helper](http://www.wekinator.org/input-helper/)
 * [Micro:Bit](http://microbit.org/guide/)
 
-⋅⋅⋅[Link to Hex code](http://www.doc.gold.ac.uk/~mas01rf/WekinatorDownloads/wekinator_examples/all_source_zips/RUN_THIS_ON_MICROBIT.hex)
+ ...[Link to Hex code](http://www.doc.gold.ac.uk/~mas01rf/WekinatorDownloads/wekinator_examples/all_source_zips/RUN_THIS_ON_MICROBIT.hex)
 
-⋅⋅⋅Download [BBC micro:bit](http://www.wekinator.org/examples/#BBC_microbit)
+ ...Download [BBC micro:bit](http://www.wekinator.org/examples/#BBC_microbit)
 
 
 ## What I Accomplished
